@@ -1,0 +1,16 @@
+C:\Users\gagy\Desktop\qa\Automation\HW\Homework_SeleniumAdvance\Homework_SeleniumAdvance\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\gagy\Desktop\qa\Automation\HW\Homework_SeleniumAdvance\Homework_SeleniumAdvance\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\gagy\Desktop\qa\Automation\HW\Homework_SeleniumAdvance\Homework_SeleniumAdvance\bin\Debug\netcoreapp2.2\nunit.engine.dll
+C:\Users\gagy\Desktop\qa\Automation\HW\Homework_SeleniumAdvance\Homework_SeleniumAdvance\bin\Debug\netcoreapp2.2\nunit.engine.api.dll
+C:\Users\gagy\Desktop\qa\Automation\HW\Homework_SeleniumAdvance\Homework_SeleniumAdvance\bin\Debug\netcoreapp2.2\testhost.exe
+C:\Users\gagy\Desktop\qa\Automation\HW\Homework_SeleniumAdvance\Homework_SeleniumAdvance\bin\Debug\netcoreapp2.2\testhost.dll
+C:\Users\gagy\Desktop\qa\Automation\HW\Homework_SeleniumAdvance\Homework_SeleniumAdvance\bin\Debug\netcoreapp2.2\Homework_SeleniumAdvance.deps.json
+C:\Users\gagy\Desktop\qa\Automation\HW\Homework_SeleniumAdvance\Homework_SeleniumAdvance\bin\Debug\netcoreapp2.2\Homework_SeleniumAdvance.runtimeconfig.json
+C:\Users\gagy\Desktop\qa\Automation\HW\Homework_SeleniumAdvance\Homework_SeleniumAdvance\bin\Debug\netcoreapp2.2\Homework_SeleniumAdvance.runtimeconfig.dev.json
+C:\Users\gagy\Desktop\qa\Automation\HW\Homework_SeleniumAdvance\Homework_SeleniumAdvance\bin\Debug\netcoreapp2.2\Homework_SeleniumAdvance.dll
+C:\Users\gagy\Desktop\qa\Automation\HW\Homework_SeleniumAdvance\Homework_SeleniumAdvance\bin\Debug\netcoreapp2.2\Homework_SeleniumAdvance.pdb
+C:\Users\gagy\Desktop\qa\Automation\HW\Homework_SeleniumAdvance\Homework_SeleniumAdvance\obj\Debug\netcoreapp2.2\Homework_SeleniumAdvance.csprojAssemblyReference.cache
+C:\Users\gagy\Desktop\qa\Automation\HW\Homework_SeleniumAdvance\Homework_SeleniumAdvance\obj\Debug\netcoreapp2.2\Homework_SeleniumAdvance.AssemblyInfoInputs.cache
+C:\Users\gagy\Desktop\qa\Automation\HW\Homework_SeleniumAdvance\Homework_SeleniumAdvance\obj\Debug\netcoreapp2.2\Homework_SeleniumAdvance.AssemblyInfo.cs
+C:\Users\gagy\Desktop\qa\Automation\HW\Homework_SeleniumAdvance\Homework_SeleniumAdvance\obj\Debug\netcoreapp2.2\Homework_SeleniumAdvance.dll
+C:\Users\gagy\Desktop\qa\Automation\HW\Homework_SeleniumAdvance\Homework_SeleniumAdvance\obj\Debug\netcoreapp2.2\Homework_SeleniumAdvance.pdb
